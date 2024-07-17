@@ -3,7 +3,7 @@
 > Gilhan Park, WonJun Moon, SuBeen Lee, Tae-Young Kim, and Jae-Pil Heo <br>
 > Sungkyunkwan University
 
-[![Paper](https://img.shields.io/badge/arXiv--brightgreen)](https://arxiv.org/abs/)
+[![Paper](https://img.shields.io/badge/arXiv--brightgreen)](https://arxiv.org/abs/2407.11859)
 
 ![main_figure](./fig/Main_Figure.png)
 
