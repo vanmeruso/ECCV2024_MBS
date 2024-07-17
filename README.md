@@ -3,12 +3,12 @@
 > Gilhan Park, WonJun Moon, SuBeen Lee, Tae-Young Kim, and Jae-Pil Heo <br>
 > Sungkyunkwan University
 
-[![Paper](https://img.shields.io/badge/arXiv--brightgreen)](https://arxiv.org/abs/2407.11859)
+[![Paper](https://img.shields.io/badge/arXiv-2407.11859-brightgreen)](https://arxiv.org/abs/2407.11859)
 
 ![main_figure](./fig/Main_Figure.png)
 
 ## Updates & News
-- Our new paper, "Mitigating Background Shift in Class-Incremental Semantic Segmentation" will soon be posted on Arxiv. The title and code are currently available.
+- Our new paper, "Mitigating Background Shift in Class-Incremental Semantic Segmentation" **be posted on Arxiv!!!!** The title and code are currently available.
 - Our paper has been accepted at **ECCV 2024**.
 
 ## Abtract
