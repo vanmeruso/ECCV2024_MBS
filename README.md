@@ -3,7 +3,8 @@
 > Gilhan Park, WonJun Moon, SuBeen Lee, Tae-Young Kim, and Jae-Pil Heo <br>
 > Sungkyunkwan University
 
-[![Paper](https://img.shields.io/badge/arXiv-2407.11859-brightgreen)](https://arxiv.org/abs/2407.11859)<br>
+[![Paper](https://img.shields.io/badge/arXiv-2407.11859-brightgreen)](https://arxiv.org/abs/2407.11859)
+[![Conference](https://img.shields.io/badge/ECCV-2024-blue)](https://eccv2024.ecva.net/)<br>
 🥇[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mitigating-background-shift-in-class/overlapped-100-10-on-ade20k)](https://paperswithcode.com/sota/overlapped-100-10-on-ade20k?p=mitigating-background-shift-in-class)
 🥇[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mitigating-background-shift-in-class/overlapped-100-50-on-ade20k)](https://paperswithcode.com/sota/overlapped-100-50-on-ade20k?p=mitigating-background-shift-in-class)<br>
 🥇[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mitigating-background-shift-in-class/overlapped-100-5-on-ade20k)](https://paperswithcode.com/sota/overlapped-100-5-on-ade20k?p=mitigating-background-shift-in-class)
