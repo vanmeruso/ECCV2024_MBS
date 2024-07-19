@@ -104,7 +104,12 @@ python -m torch.distributed.launch --nproc_per_node={num_gpu} --master_port={por
 ## BibTex
 If you find the repository or the paper useful, please use the following entry for citation.
 ````BibTeX
-coming soon
+@article{park2024mitigating,
+  title={Mitigating Background Shift in Class-Incremental Semantic Segmentation},
+  author={Park, Gilhan and Moon, WonJun and Lee, SuBeen and Kim, Tae-Young and Heo, Jae-Pil},
+  journal={arXiv preprint arXiv:2407.11859},
+  year={2024}
+}
 ````
 
 ## Contributors and Contact
